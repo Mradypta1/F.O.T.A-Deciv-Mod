@@ -1,18 +1,19 @@
 [
 	{
 		"name": "The Scorpions Insurgency",
-		"leaderName": "Trevor W.",
+		"leaderName": "Trevor Wright",
 		"adjective": ["Insurgent"],
-		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
+		"personality": "Trevor",
+		"favoredReligion": "Objectivism",
 		
-		"startIntroPart1": "'The insurgency will always prevail.' - Trevor W. William",
-		"startIntroPart2": "This is based on my original creation, so this is only just for fun.",
+		// "startIntroPart1": "",
+		// "startIntroPart2": "",
 
 		"declaringWar": "Our goal is to conquer the world and destroy those who get in our way. And you are one of them. So prepare yourself, prepare yourself for the destruction of you and your faction!",
 		"attacked": "You fool, do you really think you can defeat us? Fine then, we will show no mercy to you!",
 		"defeated": "You may have won this war. But soon, the Scorpions Insurgency will rise again, and you will witness your faction burn to ashes.",
-		"introduction": "Hold it right there. I am Trevor William, I lead the Scorpions Insurgency. Listen, I have an advice for you. Stay out of our way, and you will be spared...",
+		"introduction": "Hold it right there. I am Trevor William, I lead the Scorpions Insurgency. Listen, I have an advice for you. Stay out of our way, and you will be spared.",
 		
 		"neutralHello": "What?",
 		"hateHello": "What do you want!?",
@@ -24,7 +25,13 @@
 		"uniques": [
 			"[+30]% Strength <vs [City-States]>",
 			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [50]% chance>",
-			"No movement cost to pillage"],
+			"No movement cost to pillage",
+			"Starts with [Supremacy] adopted",
+			"Starts with [Writing]",
+			"Starts with [Construction]",
+			"Starts with [Machinery]",
+			"Starts with [Secrets of the Past]"
+			],
 			"cities": ["Scorpius Citadel"]
 	}
 ]
