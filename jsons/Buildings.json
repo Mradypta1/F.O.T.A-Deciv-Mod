@@ -1,5 +1,5 @@
 [
-	// Capital uniques
+	// Scorpion Insurgency uniques
 	{
 		"name": "The Archives",
 		"isWonder": true,
@@ -18,15 +18,12 @@
 			"Gain a free [Library] [in this city]",
 			"Automatically built in all cities where it is buildable"
 		],
-		"quote": "The Archives is where the insurgency keeps all of their secrets, and when I mean all of them, I mean ALL of them. Their history, their weaponry, their projects, everything. The Scorpions Insurgency will do anything to protect this from the outside world.",
-		"civilopediaText": [
-			{
-				"text": "The Archives is where the insurgency keeps all of their secrets, and when I mean all of them, I mean ALL of them. Their history, their weaponry, their projects, everything. The Scorpions Insurgency will do anything to protect this from the outside world."
+		"quote": "The Archives is where the insurgency keeps all of their secrets, and when I mean all of them, I mean ALL of them. Their history, their projects, everything. The Scorpions Insurgency will do anything to protect this from the outside world.",
 			}
 		]
 	},
 	{
-		"name": "Insurgent Camp",
+		"name": "Insurgent Outpost",
 		"replaces": "Prison Camp",
 		"uniqueTo": "The Scorpions Insurgency",
 		"percentStatBonus": { "food": -25 },
@@ -43,4 +40,17 @@
 		],
 		"requiredTech": "Construction"
 	},
+	{
+		"name": "The Scorpion Project",
+		"isWonder": true,
+		"uniqueTo": "The Scorpions Insurgency",
+		"requiredTech": "Nuclear Fission",
+		"uniques": [
+			"Free [The Scorpion] appears",
+		],
+		"quote": "The Scorpion project has been completed sir. Shall I give the orders to deploy?",
+		"civilopediaText": [
+			{
+				"text": "According to a file in The Archives, The Scorpion is a giant robot that is controlled by 50 people, and it was developed as a way to speed up the process for world domination for the Scorpions Insurgency. It is designed to look like a scorpion and is equipped with multiple weaponry. Though, it also says its height is over 300 feet tall. But such thing is impossible... right?"
+			}
 ]
