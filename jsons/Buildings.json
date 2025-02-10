@@ -1,25 +1,27 @@
 [
+	// Capital uniques
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "The Archives",
+		"isWonder": true,
+		"uniqueTo": "The Scorpions Insurgency",
+		"science": 3,
+		"cost": 0,
+		"uniques": [
+			"[2] free [S.I Fighter] units appear",
+			"Can only be built <in [Capital] cities>",
+			"[+1 Science] [in this city] <with [Artifacts]>",
+			"[+1 Science] [in this city] <with [Books]>",
+			"[+1 Science] [in this city] <with [Data]>",
+			"[+1 Science] [in this city] <with [Electronics]>",
+			"[+2 Science] [in this city] <when above [0] [Power]>",
+			"Gain a free [Library] [in this city]",
+			"Automatically built in all cities where it is buildable"
+		],
+		"quote": "The Archives is where the insurgency keeps all of their secrets, and when I mean all of them, I mean ALL of them. Their history, their weaponry, their secrets, their projects, everything. The Scorpions Insurgency will do anything to protect this from the outside world.",
+		"civilopediaText": [
+			{
+				"text": "The Archives is where the insurgency keeps all of their secrets, and when I mean all of them, I mean ALL of them. Their history, their weaponry, their secrets, their projects, everything. The Scorpions Insurgency will do anything to protect this from the outside world."
+			}
+		]
 	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
 ]
