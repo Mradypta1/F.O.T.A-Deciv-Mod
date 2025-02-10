@@ -66,11 +66,10 @@
 		"movement": 8,
 		"strength": 300,
 		"cost": 1000,
-		"requiredTech": "Nuclear Fusion",
-		"promotions": ["Promotion Nullifier",
 		"uniques": [
 			"Promotion Nullifier",
-			"[+25]% Strength <vs [Air] units>",
+			"[+60]% Strength <vs [Land] units>",
+			"[+50]% Strength <vs [Air] units>",
 			"[90]% chance to intercept air attacks",
 			"Can move after attacking",
 			"No defensive terrain bonus",
