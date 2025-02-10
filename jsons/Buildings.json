@@ -5,6 +5,7 @@
 		"isWonder": true,
 		"uniqueTo": "The Scorpions Insurgency",
 		"science": 3,
+		"culture": 2,
 		"cost": 0,
 		"uniques": [
 			"[2] free [S.I Fighter] units appear",
