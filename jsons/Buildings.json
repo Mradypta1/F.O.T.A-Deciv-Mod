@@ -25,4 +25,22 @@
 			}
 		]
 	},
+	{
+		"name": "Insurgent Camp",
+		"replaces": "Prison Camp",
+		"uniqueTo": "The Scorpions Insurgency",
+		"percentStatBonus": { "food": -25 },
+		"cost": 15,
+		"cityStrength": 10,
+		"cityHealth": 30,
+		"uniques": [
+			"[+15]% Production when constructing [Melee] units [in this city]",
+			"Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Provides [3] [Weapons]",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
+	},
 ]
