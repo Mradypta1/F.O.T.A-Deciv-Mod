@@ -28,6 +28,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Scorpion Insurgent",
+		"unitType": "Scrapper",
+		"uniqueTo": "The Scorpions Insurgency",
+		"movement": 2,
+		"strength": 45,
+		"interceptRange": 1,
+		"cost": 125,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "NBC Infantry",
+		"hurryCostModifier": 20,
+		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"promotions": ["Urban Warfare I","Loose Formation"],
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Striker Force",
 		"unitType": "Scrapper",
 		"replaces": "Exo-Trooper",
@@ -56,11 +71,11 @@
 		"uniques": [
 			"Promotion Nullifier",
 			"[+25]% Strength <vs [Air] units>",
-			"[70]% chance to intercept air attacks",
+			"[90]% chance to intercept air attacks",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"Unbuildable",
-			"Only available <if [Reactivate AI] is constructed>",
+			"Only available <if [The Scorpion Project] is constructed>",
 			"Eliminates combat penalty for attacking over a river",
 			"Eliminates combat penalty for attacking across a coast",
 			"[+100]% Strength <when defending> <when [Embarked]>",
