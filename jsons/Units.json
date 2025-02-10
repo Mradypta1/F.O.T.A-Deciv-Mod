@@ -60,6 +60,7 @@
 		"attackSound": "tankshot"
 	},
 	{
+		//This unit is really powerful, so you must not let them have it.
 		"name": "The Scorpion",
 		"unitType": "Armor",
 		"uniqueTo": "The Scorpions Insurgency",
@@ -84,7 +85,6 @@
 			{
 				"text": "The Scorpion is one of the most powerful thing that the insurgency has created. Designed to destroy cities and traverse through harsh terrains, with the height being 300 feet tall, it is guaranteed to be unstoppable."
 	},
-			//This unit is really powerful, so you must not let them have it.
 	{
 		"name": "S.I General",
 		"unitType": "Civilian",
@@ -99,5 +99,5 @@
 			"Unbuildable",
 			"Uncapturable"],
 		"movement": 2,
-		}
+	}
 ]
