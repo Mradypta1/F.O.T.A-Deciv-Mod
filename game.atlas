@@ -31,7 +31,7 @@ UnitIcons/Slasher
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/S.I General
+UnitIcons/Commander
   rotate: false
   xy: 332,28
   size: 200, 200
