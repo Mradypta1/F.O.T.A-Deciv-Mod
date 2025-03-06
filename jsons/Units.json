@@ -43,7 +43,7 @@
 		"attackSound": "machinegun"
 	},
 	{
-		"name": "Striker Force",
+		"name": "Strike Force",
 		"unitType": "Scrapper",
 		"replaces": "Exo-Trooper",
 		"uniqueTo": "The Scorpions Insurgency",
