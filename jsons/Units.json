@@ -1,7 +1,7 @@
 [
 	// Scorpions Insurgency uniques
 	{
-		"name": "S.I Fighter",
+		"name": "Scorpion Fighter",
 		"unitType": "Scrapper",
 		"uniqueTo": "The Scorpions Insurgency",
 		"replaces": "Spearman",
