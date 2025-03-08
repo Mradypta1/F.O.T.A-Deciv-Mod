@@ -51,7 +51,7 @@
 		"strength": 90,
 		"cost": 375,
 		"requiredTech": "Energy Weapons",
-		"promotions": ["March","Blitz"],
+		"promotions": ["March","Blitz","Powered Armor","Gas Mask"],
 		"uniques": ["Personnel",
 			"Never appears as a Barbarian unit",
 			"May Paradrop up to [4] tiles from inside friendly territory",
