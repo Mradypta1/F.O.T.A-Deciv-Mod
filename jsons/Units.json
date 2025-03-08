@@ -3,7 +3,7 @@
 	{
 		"name": "Scorpion Fighter",
 		"unitType": "Scrapper",
-		"uniqueTo": "The Scorpions Insurgency",
+		"uniqueTo": "The Scorpion Insurgency",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 20,
@@ -17,7 +17,7 @@
 		"name": "Slasher",
 		"unitType": "Scrapper",
 		"replaces": "Machete",
-		"uniqueTo": "The Scorpions Insurgency",
+		"uniqueTo": "The Scorpion Insurgency",
 		"movement": 2,
 		"strength": 24,
 		"cost": 120,
@@ -30,7 +30,7 @@
 	{
 		"name": "Scorpion Insurgent",
 		"unitType": "Scrapper",
-		"uniqueTo": "The Scorpions Insurgency",
+		"uniqueTo": "The Scorpion Insurgency",
 		"movement": 2,
 		"strength": 45,
 		"interceptRange": 1,
@@ -46,7 +46,7 @@
 		"name": "Strike Force",
 		"unitType": "Scrapper",
 		"replaces": "Exo-Trooper",
-		"uniqueTo": "The Scorpions Insurgency",
+		"uniqueTo": "The Scorpion Insurgency",
 		"movement": 3,
 		"strength": 90,
 		"cost": 375,
@@ -63,7 +63,7 @@
 		//This unit is really powerful, so you must not let them have it.
 		"name": "The Scorpion",
 		"unitType": "Armor",
-		"uniqueTo": "The Scorpions Insurgency",
+		"uniqueTo": "The Scorpion Insurgency",
 		"movement": 8,
 		"strength": 300,
 		"cost": 1000,
@@ -90,7 +90,7 @@
 	{
 		"name": "Commander",
 		"unitType": "Civilian",
-		"uniqueTo": "The Scorpions Insurgency",
+		"uniqueTo": "The Scorpion Insurgency",
 		"replaces": "Great General",
 		"uniques": [
            		"Empire enters a [10]-turn Golden Age <by consuming this unit>",
