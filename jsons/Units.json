@@ -7,8 +7,9 @@
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 20,
-		"cost": 50,
+		"cost": 30,
 		"obsoleteTech": "Rifling",
+  "uniques": ["Withdraws before melee combat <with [20]% chance>","Low Tech"
 		"promotions": ["Urban Warfare I","Guerilla Warfare I"],
 		"upgradesTo": "Militia",
 		"attackSound": "nonmetalhit"
@@ -20,9 +21,10 @@
 		"uniqueTo": "The Scorpion Insurgency",
 		"movement": 2,
 		"strength": 24,
-		"cost": 120,
+		"cost": 110,
 		"requiredTech": "Steel",
-		"uniques": ["Withdraws before melee combat <with [60]% chance>"]
+		"uniques": ["Withdraws before melee combat <with [60]% chance>","Low Tech",
+			"[+50]% Strength <vs [Low Tech] units>"]
 		"upgradesTo": "Militia",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
