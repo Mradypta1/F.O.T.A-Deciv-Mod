@@ -31,4 +31,36 @@
 			"Bionics": 0
 		  },
 	},
+	{
+		"name": "Berserker",
+		"culture": 4,
+		"faith": 2,
+		"food": 7,
+		"gold": 6,
+		"happiness": 5,
+		"production": 7,
+		"science": 6,
+		"military": 8,
+		"aggressive": 1,
+		"declareWar": 2,
+		"commerce": 4,
+		"diplomacy": 8,
+		"loyal": 9,
+		"expansion": 6,
+
+		"priorities": {
+			"Adaptation": 20,
+			"Expansionism": 10,
+			"Sovereignty": 30,
+			"Theocracy": 0,
+			"Rationalism": 30,
+			"Constitution": 30,
+			"Supremacy": 0,
+			"Monopoly": 10,
+			"Collectivism": 0,
+			"Naturalism": 0,
+			"Mechanization": 0
+			"Bionics": 40
+		  },
+	}
 ]
