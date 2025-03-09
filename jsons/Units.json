@@ -103,5 +103,60 @@
 			"Unbuildable",
 			"Uncapturable"],
 		"movement": 2,
-	}
+	},
+	// D.A.P.U uniques
+	{
+		{
+		"name": "Divebombers",
+		"uniqueTo": "The Defenders and Protectors of the Universe",
+		"replaces": "Guided Missile",
+		"unitType": "Missile",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 45,
+		"range": 10,
+		"cost": 120,
+		"requiredTech": "Rocketry",
+		"uniques": [
+		    "[-100]% maintenance costs",
+		    "[+40]% Strength <after discovering [Energy Weapons]>",
+			"Only available <if [Factory] is constructed>",
+			"[+50]% Strength <vs [Land] units>",
+		],
+		"attackSound": "missile"
+	},
+	{
+		"name": "Watchful Eye",
+		"unitType": "Scrapper",
+		"uniqueTo": "The Defenders and Protectors of the Universe",
+		"replaces": "Forward Observer",
+		"movement": 4,
+		"strength": 23,
+		"interceptRange": 1,
+		"cost": 60,
+		"hurryCostModifier": 20,
+		"requiredTech": "Replaceable Parts",
+		"uniques": [
+			"Personnel",
+			"[+1] Sight",
+			"Can move after attacking"
+		],
+		"promotions": ["Reconnaissance I", "Skirmish"]
+	},
+		
+	{
+		"name": "Elite Defenders",
+		"unitType": "Scrapper",
+		"replaces": "Exo-Trooper",
+		"uniqueTo": "The Defenders and Protectors of the Universe",
+		"movement": 3,
+		"strength": 90,
+		"cost": 375,
+		"requiredTech": "Energy Weapons",
+		"promotions": ["March","Blitz","Powered Armor","Gas Mask"],
+		"uniques": ["Personnel",
+			"Never appears as a Barbarian unit",
+			"May Paradrop up to [4] tiles from inside friendly territory",,
+			"Consumes [2] [Weapons]"],
+		"attackSound": "tankshot"
 ]
