@@ -27,7 +27,7 @@
 			"Monopoly": 0,
 			"Collectivism": 20,
 			"Naturalism": 0,
-			"Mechanization": Boldness + Production + Military training,
+			"Mechanization": 20
 			"Bionics": 0
 		  },
 	},
