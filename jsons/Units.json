@@ -9,7 +9,7 @@
 		"strength": 20,
 		"cost": 30,
 		"obsoleteTech": "Rifling",
-"uniques": ["Withdraws before melee combat <with [20]% chance>","Low Tech"
+		"uniques": ["Withdraws before melee combat <with [20]% chance>","Low Tech"],
 		"promotions": ["Urban Warfare I","Guerilla Warfare I"],
 		"upgradesTo": "Militia",
 		"attackSound": "nonmetalhit"
