@@ -31,5 +31,43 @@
 			"Starts with [Secrets of the Past]"
 			],
 			"cities": ["Scorpius Citadel","Camp Alpha","Springhill","Echo Site","Eclipse Point","Dusk Canyon","Camp Beta","Alpine Cove", "Camp Gamma","Camp Delta"]
+	},
+	{
+		"name": "The Defenders and Protectors of the Universe",
+		"leaderName": "The Berserker",
+		"adjective": ["Berserker"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Berserker",
+		"favoredReligion": "Objectivism",
+		
+		"startIntroPart1": "Hey, Berserker! Look, I know you're confused right now, but I can explain. It appears we have been teleported to another universe by some sort of a wormhole. But it's not just us, every factions from our world has been transported here. Also, I don't know why, but it looks like the teleportation made most us forget about things. So don't be surprised too much if an ally from our world doesn't recognize us or something.",
+		"startIntroPart2": "Listen, I'll find a way to sort this out, Zachary, and the other high researchers will also help me. As for you, I'm assigning you take the lead for now, okay? I'll see you soon.",
+
+		"declaringWar": "I have seen what you've done, and I don't think I can let that go. Therefore, the D.A.P.U will get rid of you forever, for the safety of humanity.",
+		"attacked": "As. You. Wish.",
+		"defeated": "Well, all is lost! I hope you're happy with yourself, because everyone who isn't from this universe can't go home because of you!",
+		"introduction": "Oh, hey there. The Leader is currently busy with something, so I'm taking charge here. Most people call me the Berserker, but you can call me Mark if you want.",
+		
+		"neutralHello": "Hey.",
+		"hateHello": "Oh what now?!",
+		"tradeRequest": "Hello again, I have some offers to make. Hope this suits you well.",
+
+		"outerColor": [37,185,215],
+		"innerColor": [0,0,100],
+		"uniqueName": "The Last Hope",
+		"uniques": [
+			"Starts with [Constitution] adopted",
+			"Starts with [Construction]",
+			"Starts with [Engineering]",
+			"[+50]% [Food] from City-States",
+			"[+50]% [Culture] from City-States",
+			"[+50]% [Faith] from City-States",
+			"[+50]% [Science] from City-States",
+			"[+50]% [Happiness] from City-States",
+			"[+50]% [Production] from City-States",
+			"City-State territory always counts as friendly territory",
+			"Cannot build [Enslaved] units"
+			],
+			"cities": ["Starpoint Station","Sunset Cliff","Mercury Base","Aegis","Nova Point","Andromeda Point","Dawnville"]
 	}
 ]
