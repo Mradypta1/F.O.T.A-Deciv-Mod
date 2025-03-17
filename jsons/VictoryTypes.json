@@ -4,7 +4,7 @@
         "victoryScreenHeader": "Complete all the portal parts\nto win!",
         "milestones": [
             "Build [Project Homecoming]",
-            "Add all [returning device parts] in capital"
+            "Add all [portal parts] in capital"
         ],
         "requiredSpaceshipParts": [
             "Device Frame", "Particle Accelerator", "Fusion Reactor", "Universal Navigator"
