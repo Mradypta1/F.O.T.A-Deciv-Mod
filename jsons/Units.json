@@ -143,8 +143,7 @@
 			"Can move after attacking"
 		],
 		"promotions": ["Reconnaissance I", "Skirmish"]
-	},
-		
+	},	
 	{
 		"name": "Elite Defenders",
 		"unitType": "Scrapper",
@@ -160,4 +159,5 @@
 			"May Paradrop up to [4] tiles from inside friendly territory",,
 			"Consumes [2] [Weapons]"],
 		"attackSound": "tankshot"
+	}
 ]
