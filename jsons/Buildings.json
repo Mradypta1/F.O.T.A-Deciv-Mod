@@ -58,7 +58,6 @@
 	{
 		"name": "Project Homecoming",
 		"uniqueTo": "The Defenders and Protector of the Universe",
-		"replaces": "Biosphere Project",
 		"cost": 1500,
 		"isNationalWonder": true,
 		"uniques": [
