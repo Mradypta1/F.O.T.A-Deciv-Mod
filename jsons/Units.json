@@ -158,5 +158,81 @@
 			"May Paradrop up to [4] tiles from inside friendly territory",
 			"Consumes [2] [Weapons]"],
 		"attackSound": "tankshot"
+	},
+
+	//Portal Device Parts
+	{
+		"name": "Device Frame", 
+		"unitType": "Civilian",
+		"uniqueTo": "The Defenders and Protectors of the Universe",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Future Materials",
+		"uniques": [
+			"Portal Part",
+			"Consumes [1] [Aluminum]",
+			"Only available <in cities with a [Aerospace Facility]>",
+			"Only available <if [Project Homecoming] is constructed>",
+			"Can be added to [The Portal] in the Capital",
+			"Limited to [1] per Civilization",
+			"Cannot be purchased",
+			"Triggers a global alert upon completion",
+			"Only available <when [D.A.P.U's Victory] Victory is enabled>"
+		]
+	},
+	{
+		"name": "Universal Navigator",
+		"unitType": "Civilian",
+		"uniqueTo": "The Defenders and Protectors of the Universe",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Artificial Intelligence",
+		"uniques": [
+			"Portal Part",
+			"Consumes [1] [Aluminum]",
+			"Only available <if [Project Homecoming] is constructed>",
+			"Can be added to [The Portal] in the Capital",
+			"Limited to [1] per Civilization",
+			"Cannot be purchased",
+			"Triggers a global alert upon completion",
+			"Only available <when [D.A.P.U's Victory] Victory is enabled>"
+		]
+	},
+	{
+		"name": "Fusion Reactor",
+		"unitType": "Civilian",
+		"uniqueTo": "The Defenders and Protectors of the Universe",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Future Power",
+		"uniques": [
+			"Portal Part",
+			"Consumes [1] [Uranium]",
+			"Only available <if [Project Homecoming] is constructed>",
+			"Only available <in cities with a [Harbor]>",
+			"Can be added to [The Portal] in the Capital",
+			"Limited to [1] per Civilization",
+			"Cannot be purchased",
+			"Triggers a global alert upon completion",
+			"Only available <when [D.A.P.U's Victory] Victory is enabled>"
+		]
+	},
+	{
+		"name": "Particle Accelerator",
+		"unitType": "Civilian",
+		"uniqueTo": "The Defenders and Protectors of the Universe",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Particle Physics",
+		"uniques": [
+			"Portal Part",
+			"Consumes [1] [Uranium]",
+			"Only available <if [Project Homecoming] is constructed>",
+			"Can be added to [The Portal] in the Capital",
+			"Limited to [1] per Civilization",
+			"Cannot be purchased",
+			"Triggers a global alert upon completion",
+			"Only available <when [D.A.P.U's Victory] Victory is enabled>"
+		]
 	}
 ]
