@@ -1,1 +1,13 @@
-
+[
+  {
+		"name": "Sunset Cliff",
+		"type": "NaturalWonder",
+		"happiness": 4,
+		"occursOn": ["Mountain"],
+		"uniques": ["Must be adjacent to [1] to [6] [Mountain] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	}
+]
