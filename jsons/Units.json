@@ -155,7 +155,7 @@
 		"promotions": ["March","Blitz","Powered Armor","Gas Mask"],
 		"uniques": ["Personnel",
 			"Never appears as a Barbarian unit",
-			"May Paradrop up to [4] tiles from inside friendly territory",,
+			"May Paradrop up to [4] tiles from inside friendly territory",
 			"Consumes [2] [Weapons]"],
 		"attackSound": "tankshot"
 	}
