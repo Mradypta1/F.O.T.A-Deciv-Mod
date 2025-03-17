@@ -53,4 +53,23 @@
 			}
 		]
 	},
+
+	// D.A.P.U Uniques
+	{
+		"name": "Project Homecoming",
+		"uniqueTo": "The Defenders and Protector of the Universe"
+		"cost": 1500,
+		"isNationalWonder": true,
+		"uniques": [
+			"Triggers a global alert upon completion",
+			"Only available <when [D.A.P.U.'s Victory] Victory is enabled>",
+			"Cannot be hurried"
+		],
+		"requiredTech": "Computers",
+		"civilopediaText": [
+			{
+				"text": "Enables the construction of Portal Parts."
+			}
+		]
+	},
 ]
