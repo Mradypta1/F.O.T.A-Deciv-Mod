@@ -1,1 +1,15 @@
-
+[
+    {
+        "name": "D.A.P.U's Victory",
+        "victoryScreenHeader": "Complete all the portal parts\nto win!",
+        "milestones": [
+            "Build [Project Homecoming]",
+            "Add all [returning device parts] in capital"
+        ],
+        "requiredSpaceshipParts": [
+            "Device Frame", "Particle Accelerator", "Fusion Reactor", "Universal Navigator"
+        ],
+        "victoryString": "Hey, We've finally finished the portal. I just hope that it will bring us back, including the other factions who isn't from this universe. Anyways, let's go!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]
