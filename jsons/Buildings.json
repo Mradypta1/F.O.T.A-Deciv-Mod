@@ -62,7 +62,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Triggers a global alert upon completion",
-			"Only available <when [D.A.P.U.'s Victory] Victory is enabled>",
+			"Only available <when [D.A.P.U's Victory] Victory is enabled>",
 			"Cannot be hurried"
 		],
 		"requiredTech": "Computers",
