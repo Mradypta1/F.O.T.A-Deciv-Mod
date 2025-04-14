@@ -65,6 +65,7 @@
 			"Only available <when [D.A.P.U's Victory] Victory is enabled>",
 			"Cannot be hurried"
 		],
+		"quote": "Good news, we figured out how to get home. We just need to build a device that can take us all back",
 		"requiredTech": "Computers",
 		"civilopediaText": [
 			{
