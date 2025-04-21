@@ -107,7 +107,7 @@
 	
 	// D.A.P.U uniques
 	{
-		"name": "Divebombers",
+		"name": "Divebomber",
 		"uniqueTo": "The Defenders and Protectors of the Universe",
 		"replaces": "Guided Missile",
 		"unitType": "Missile",
