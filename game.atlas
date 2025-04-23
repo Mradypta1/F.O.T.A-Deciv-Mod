@@ -38,7 +38,7 @@ UnitIcons/Commander
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/S.I Fighter
+UnitIcons/Scorpion Fighter
   rotate: false
   xy: 1312,400
   size: 200, 200
