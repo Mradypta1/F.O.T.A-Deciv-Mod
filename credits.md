@@ -13,3 +13,8 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * [saturn] (https://thenounproject.com/icon/saturn-7078167/) by Cahya Kurniawan
 * [rifle] (https://thenounproject.com/icon/rifle-7537917/) by Wahyu A
 * [riot shield] (https://thenounproject.com/icon/riot-shield-6194799/) by Juicy Fish
+* [core] (https://thenounproject.com/browse/icons/term/core/) by Dicky Prayudawanto
+* [bird] (https://thenounproject.com/icon/bird-7769923/) by Kim Sun Young
+* [frame] (https://thenounproject.com/icon/frame-7231162/) by saripah
+* [navigator] (https://thenounproject.com/icon/navigator-5067906/) by lastspark
+* [plasma reactor] (https://thenounproject.com/icon/plasma-reactor-3818639/) by Olena Panasovska
