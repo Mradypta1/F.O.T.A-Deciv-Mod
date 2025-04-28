@@ -2,8 +2,9 @@
 	// Scorpion Insurgency uniques
 	{
 		"name": "The Archives",
-		"isWonder": true,
+		"isNationalWonder": true,
 		"uniqueTo": "The Scorpion Insurgency",
+		"replaces": "Bomb Shelter",
 		"science": 3,
 		"culture": 2,
 		"cost": 0,
