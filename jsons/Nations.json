@@ -36,7 +36,7 @@
 		"name": "The Defenders and Protectors of the Universe",
 		"leaderName": "The Berserker",
 		"adjective": ["Berserker"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "D.A.P.U's Victory",
 		"personality": "Berserker",
 		"favoredReligion": "Liberty",
 		
@@ -64,6 +64,6 @@
 			"Cannot build [Enslaved] units",
 			"Comment [Has a unique victory]"
 			],
-			"cities": ["Starpoint Station","Station-5","Aegis","Nova Point","Andromeda Point","Dawnville","Saturnus Station","Station-12","Defenders Bastion"]
+			"cities": ["Starpoint Station","Station-5","Aegis","Nova Point","Andromeda Point","Dawnville","Saturnus Station","Station-12","Station-6"]
 	}
 ]
