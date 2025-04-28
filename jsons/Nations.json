@@ -10,8 +10,8 @@
 		// "startIntroPart1": "",
 		// "startIntroPart2": "",
 
-		"declaringWar": "Our goal is to conquer the world and destroy those who DARE to get in our way. And you are one of them. So prepare yourself, prepare yourself for your end!",
-		"attacked": "You fool, do you really think you can defeat us? Fine then, I will make sure that the Scorpion Insurgency show no mercy to you!",
+		"declaringWar": "Our goal is to conquer the world and destroy those who DARE to get in our way... And you are one of them. So prepare yourself, prepare yourself for your end!",
+		"attacked": "You fool, do you really think you can defeat us? Fine then, the Scorpion Insurgency shows no mercy to their enemies!",
 		"defeated": "You may have won this war. But soon, the Scorpion Insurgency will rise again, and you will soon fall.",
 		"introduction": "Hold it right there! I am Trevor William, I lead the Scorpion Insurgency. Listen, I have an advice for you. Stay out of our way, and you will be spared.",
 		
@@ -46,11 +46,11 @@
 		"declaringWar": "I can't let you be here for much longer. So, prepare yourself.",
 		"attacked": "As. You. Wish.",
 		"defeated": "Well, all is lost! I hope you're happy with yourself, because everyone who isn't from this universe can't go home because of you!",
-		"introduction": "Oh, hey there. The Leader is currently busy with something, so I'm taking charge here. Most people call me the Berserker, but you can call me Marcus if you want.",
+		"introduction": "Oh, hey. The Leader is currently busy with something, so I'm taking charge here. Most people call me the Berserker, but you can call me Marcus if you want.",
 		
 		"neutralHello": "Hey.",
 		"hateHello": "Oh what now?!",
-		"tradeRequest": "Hello again, I have some offers to make. Hope this suits you well.",
+		"tradeRequest": "I have some offers to make, hope this suits you well.",
 
 		"outerColor": [37,185,215],
 		"innerColor": [0,0,100],
